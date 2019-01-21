@@ -1,0 +1,22 @@
+title: Explainable Systems
+email: info@explainable.systems
+description: >-
+  A curated list of awesome research projects, software, and libraries
+  in the area of explainable systems.
+baseurl: ""
+url: "https://www.explainable.systems"
+
+github_username: explainable-systems
+
+markdown: kramdown
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor

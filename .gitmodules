@@ -1,0 +1,3 @@
+[submodule "modules/awesome-explainable-systems"]
+	path = modules/awesome-explainable-systems
+	url = https://github.com/explainable-systems/awesome-explainable-systems.git
